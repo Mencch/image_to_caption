@@ -88,18 +88,5 @@ Simple command-line interface:
 - Easy to integrate into scripts or pipelines  
 - No UI overhead required  
 
----
 
-## 🏗️ Project Structure
-
-```bash
-image_to_caption/
-│
-├── caption.py              # Core script for generating captions
-├── update-images.py        # Batch processing utility
-├── models.yaml             # Model configuration file
-├── requirements.txt        # Python dependencies
-├── test_caption.py         # Testing and validation
-├── test-images/            # Sample images for experimentation
-└── README.md               # Project documentation
 
