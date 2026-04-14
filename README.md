@@ -6,6 +6,7 @@ This repository implements a **powerful image captioning system** that leverages
 The project demonstrates how multimodal AI systems can bridge the gap between **visual understanding** and **human language**, enabling machines to interpret and describe the world in a way that is both structured and intuitive.
 
 ---
+![deadpool_heart_symbol_png_image_by_ongpng_dgsr4rx-fullview](https://github.com/user-attachments/assets/dd5bb3b6-ed6d-45b9-8e3b-e2c730b93923)
 
 ## 🌍 Overview
 
