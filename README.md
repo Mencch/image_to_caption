@@ -1,9 +1,20 @@
 # image_to_caption
+Authors:
+
+- Armen Badalyan
+- Meri Karapetyan
+
+Institution: **National Polytechnic University of Armenia**
+
+Year: 2026
 # 🖼️ Image to Caption — Multimodal AI Project
 
 This repository implements a **powerful image captioning system** that leverages modern **deep learning**, **computer vision**, and **natural language processing (NLP)** techniques to automatically generate meaningful textual descriptions for images.
 
 The project demonstrates how multimodal AI systems can bridge the gap between **visual understanding** and **human language**, enabling machines to interpret and describe the world in a way that is both structured and intuitive.
+
+<img width="792" height="565" alt="Снимок экрана (119)" src="https://github.com/user-attachments/assets/dbf99b58-37b5-4f22-ad0d-9f99ece92419" />
+
 
 ---
 
